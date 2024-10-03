@@ -1,6 +1,3 @@
-# aulagit14082024
-Atividade de trabalhar em equipe e criar um formulário
-
 Bem-vindo ao meu perfil GitHub! Sou estudante de Java, Git, e outras tecnologias. Estou sempre buscando novos desafios e formas de melhorar minhas habilidades.
 
 <div style="display: flex;">
