@@ -15,5 +15,6 @@
 
 ![alexsandropdantas](https://github-readme-stats.vercel.app/api/top-langs?username=alexsandropdantas&show_icons=true&locale=en&layout=compact) ![alexsandropdantas](https://github-readme-stats.vercel.app/api?username=alexsandropdantas&show_icons=true&locale=en)
 
+![snake gif](https://github.com/alexsandropdantas/alexsandropdantas/output/github-contribution-grid-snake-dark.svg)
 ![snake gif](https://github.com/alexsandropdantas/alexsandropdantas/blob/output/github-contribution-grid-snake-dark.svg)
 
